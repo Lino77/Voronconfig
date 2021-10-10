@@ -1,0 +1,9 @@
+[Variables]
+filament_loaded = 'true'
+filament_used = 119345.15082
+filterusetime = 111686
+lastservicetime = 111686
+plate_array = [('Texture', 0.38), ('New', 0.0)]
+plate_index = 0
+totalprintingtime = 111686
+
